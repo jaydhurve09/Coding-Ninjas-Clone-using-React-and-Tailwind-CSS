@@ -2,7 +2,7 @@
 
 const Footer = () => {
   return (
-    <div className='bg-[#27211e] h-[840px] w-screen flex flex-col gap-6'>
+    <div className='bg-[#27211e] h-[840px] w-screen flex flex-col gap-6 '>
       <span className="ml-[270px] mt-28 text-white text-2xl">Important Links</span>
       
       <div className="ml-[270px] flex items-center gap-20">

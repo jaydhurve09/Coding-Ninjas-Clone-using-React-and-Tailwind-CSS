@@ -2,7 +2,7 @@
 
 const Manager2 = () => {
   return (
-    <div className="h-[550px] relative bg-slate-50 ">
+    <div className="h-[550px]  bg-slate-50 ">
       <div className="flex flex-col items-center justify-center">
         <div className=" flex flex-row items-center gap-36  mt-24 ml-72">
           <h1 className="text-xl font-bold text-black ">Our Ninjas at top tech companies</h1>

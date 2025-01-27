@@ -2,7 +2,7 @@
 
 const Manager1 = () => {
   return (
-    <div className="mt-[-30px] relative">
+    <div className="mt-[-30px] ">
         <div className="bg-neutral-900 h-32 w-screen"></div>
       <div className=" h-[4521px] w-screen bg-neutral-900  mt-[-63px]">
                     <div className="mt-9 flex flex-col gap-2">

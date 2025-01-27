@@ -3,7 +3,7 @@
 const Manager5 = () => {
     return (
         <div>
-            <div className='bg-[#191919] h-[1280px] w-screen relative'>
+            <div className='bg-[#191919] h-[1280px] w-screen '>
                 <div className="border-l-2 border-dotted border-gray-400 h-32 ml-64  "></div>
                 <div className="mt-6 max-w-40xl w-full flex items-start">
                     <img src="/public/icons/linetag6.svg" className='px-[236px] mt-[-24px]' alt="" />

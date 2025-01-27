@@ -14,10 +14,10 @@ const Manager5 = () => {
                 </div>
 
                 <div className="flex gap-5 ">
-                    <div className="rounded-lg  border  ml-72 mt-5">
+                    <button className="rounded-lg  border  ml-72 mt-5">
                         <img src="/public/icons/news.webp" className="h-72" alt="" />
 
-                    </div>
+                    </button>
                     <div className="flex flex-col">
                         <div className="flex gap-3">
                             <button className="h-32 w-48 hover:shadow-lg rounded-xl bg-white mt-6 "><img src="/public/icons/cxo-33141.png" className="h-12 ml-3 mt-2" alt="" /><p className="text-[12px] text-start text-gray-700 mt-[-12px] p-3">Coding Ninjas Unconventional Approach Upskills 1L Students, Yields 2.2x Salary Increase</p></button>
